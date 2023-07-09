@@ -16,7 +16,9 @@ But I also do web development with HTML CSS, and JS I can do bakc end with Pytho
 [![icons8-linux-48](https://github.com/Dieg0MV/Dieg0MV/assets/101619179/26132258-a282-442e-84ab-e4bcb50b93f6)]()
 [![icons8-html-48](https://github.com/Dieg0MV/Dieg0MV/assets/101619179/ec9ac36c-83cc-46e1-9e4d-949eb3f94214)]()
 [![icons8-css-48](https://github.com/Dieg0MV/Dieg0MV/assets/101619179/5c460e78-553a-42a4-b737-70edbedad2b1)]()
-
+![icons8-javascript-48](https://github.com/Dieg0MV/Dieg0MV/assets/101619179/40f650f5-667b-4721-970e-c7b3cbd03472)
+![icons8-mongodb-48](https://github.com/Dieg0MV/Dieg0MV/assets/101619179/3ef3ebd1-3df5-426e-831a-98d3b0e416b6)
 
 ##  🧠 I Wanna Learn
-![icons8-javascript-48](https://github.com/Dieg0MV/Dieg0MV/assets/101619179/40f650f5-667b-4721-970e-c7b3cbd03472)
+![icons8-amazon-web-services-48](https://github.com/Dieg0MV/Dieg0MV/assets/101619179/2ad71ec6-ee57-4efc-b28e-3c631cfdfce1)
+
