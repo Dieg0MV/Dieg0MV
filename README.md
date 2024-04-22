@@ -1,4 +1,4 @@
-# print(" Hello World !! 👋")
+# console.log(" Hello World !! 👋")
 I am a developer specialized in python I am dedicated to automate processes, create desktop programs and work in my app called Fastlav,
 But I also do web development with HTML CSS, and JS I can do bakc end with Python and Flask or with NodeJS depending on what is needed
 
