@@ -1,6 +1,6 @@
 # console.log(" Hello World !! 👋")
 I am a developer specialized in python I am dedicated to automate processes, create desktop programs and work in my app called Fastlav,
-But I also do web development with HTML CSS, and JS I can do bakc end with Python and Django or with NodeJS depending on what is needed
+But I also do web development with HTML CSS, and JS I can do back end with Python and Django or with NodeJS depending on what is needed
 
 - 📫 How to reach me in gmail like [diegoma.v2004@gmail.com](https://mail.google.com/mail/u/0/?hl=es-419#inbox)
 
